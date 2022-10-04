@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MmhaHamza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Hamza
+- 👀 I’m interested in React,Java,.Net
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Responsive Web Development
+- 📫 How to reach me mmhamalik@gmail.com
 
 <!---
 MmhaHamza/MmhaHamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
